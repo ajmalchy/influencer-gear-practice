@@ -169,14 +169,15 @@ nav li{
     background-color:#E02C6D ;
     padding: 10px 24px;
 }
-footer{
+.last-part{
     color: #FFFFFF;
     background-color: #18191F;
+    background-repeat: no-repeat;
     text-align: center;
 
 }
 .footer-content{
-    margin: 50px 589px 50px 589px;
+    /* margin: 50px 589px 50px 589px; */
     padding: 30px;
     
 }
